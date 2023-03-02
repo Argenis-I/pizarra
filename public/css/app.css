@@ -1,0 +1,88 @@
+.contenedorCliente {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  @media (min-width: 576px) {
+    .contenedorCliente {
+      max-width: 540px;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .contenedorCliente {
+      max-width: 720px;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .contenedorCliente {
+      max-width: 960px;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .contenedorCliente {
+      max-width: 1140px;
+    }
+  }
+
+.iconoMoneda{
+max-width: 50px;
+max-height: 50px;
+}
+
+.inputMedida{
+    width: 50%;
+}
+
+.iconoTabla{
+vertical-align: middle;
+}
+
+.tituloDorado{
+    color: rgb(251, 255, 0);
+    font-family: auto;
+    text-align: center;
+    font-size: 56px;
+}
+
+.letraDoradaNav{
+    color: rgb(251, 255, 0);
+    font-family: auto;
+}
+
+a.letraDoradaNav:hover{
+    color: white !important;
+}
+
+.textoBlanco{
+    color: white;
+}
+.textoDorado{
+    color: rgb(251, 255, 0);
+}
+
+.datoTipo{
+    color: white;
+    font-family: sans-serif;
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+.datoNumero{
+    color: rgb(251, 255, 0);
+    font-family: sans-serif;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
